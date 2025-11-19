@@ -11,6 +11,4 @@ wheels/
 # Virtual environments
 .venv
 
-# Images
-*.jpg
 imagenet-vgg-verydeep-19.mat
